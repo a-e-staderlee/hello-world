@@ -1,0 +1,10 @@
+instructions taken from: https://guides.github.com/activities/hello-world/
+created repository w/ a readme file (readme file not edited)
+branching to experiment before adding to MAIN
+creating a branch takes a snapshot of MAIN at that time
+you can pull changes to main since the branch was created into your branch
+branch can then be remerged with main to accept the new changes
+created branch README_EDITS
+saved changes=commits each w/ a commit message to explain why the change was made
+edit readme and then merge with main w/ pull request
+branch deleted after successful merge w/ MAIN
